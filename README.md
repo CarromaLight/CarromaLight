@@ -2,7 +2,7 @@
 
 ## About Me 📚
 
-Currently pursuing a Bachelor's degree in Computer Engineering at [ISTEC Lisbon](https://www.istec.pt)
+Currently pursuing a Bachelor's degree in Computer Engineering at [ISTEC Lisbon](https://www.istec.pt "Opens in a new tab") ↗️
 
 <!--
 **CarromaLight/CarromaLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
