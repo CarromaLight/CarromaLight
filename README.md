@@ -1,8 +1,18 @@
-## Hi there 👋
+## Hi there 👋 A little bit about About Me 📚
 
-## About Me 📚
+<!--
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/31212512?v=4">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://avatars.githubusercontent.com/u/31212512?v=4)">
+ <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://avatars.githubusercontent.com/u/31212512?v=4)">
+</picture>
 
-Currently pursuing a Bachelor's degree in Computer Engineering at [ISTEC Lisbon](https://www.istec.pt "Opens in a new tab") ↗️
+-->
+
+
+
+
+Currently pursuing a Bachelor's degree in Computer Engineering at ISTEC Lisbon
 
 <!--
 **CarromaLight/CarromaLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
